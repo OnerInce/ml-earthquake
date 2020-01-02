@@ -44,6 +44,7 @@ which includes the informations of structures which effected by earthquake. With
 - Pandas & Numpy
 - Matplotlib & Seaborn
 - [scikit-learn](https://scikit-learn.org/)
+- [imbalanced-learn](https://imbalanced-learn.readthedocs.io/)
 - [PyTorch](https://pytorch.org/)
 - [CUDA](https://developer.nvidia.com/cuda-zone)
 
