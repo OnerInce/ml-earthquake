@@ -39,6 +39,15 @@ which includes the informations of structures which effected by earthquake. With
 - Data cleaning and analysis.
 - Identified the relationships between features and fetched the meaningful ones.
 - K-Nearest Neighbor with using scikit-learn and KD-tree
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- LightGBM
+- AdaBoost
+- XGBoost
+- Neural Network
+- Voting Classifier
+- SVM
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - Pandas & Numpy
