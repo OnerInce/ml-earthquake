@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://cdn.iconscout.com/icon/premium/png-256-thumb/earthquake-1534196-1300261.png" alt="Project logo"></a>
 </p>
 
-<h3 align="center">BBM406 - 2019 - Will Fall or Not</h3>
+<h3 align="center">Earthqauke Damage Prediction - Will Fall or Not</h3>
 
 <div align="center">
 
@@ -14,14 +14,11 @@
 
 ---
 
-<p align="center"> Just another Machine Learning project by 3 friends
-    <br> 
-</p>
-
 ## 📝 Table of Contents
 - [About](#about)
 - [Dataset](#dataset)
 - [Work Done](#done)
+- [Additional Work](#more)
 - [Built Using](#built_using)
 - [Authors](#authors)
 
@@ -49,6 +46,16 @@ which includes the informations of structures which effected by earthquake. With
 - Voting Classifier
 - SVM
 
+## :muscle: Additional Work <a name = "more"></a>
+
+- Each week, as we made progress on the project, we wrote a blog post to explain the thing we done. All of them can be seen here : 
+
+https://medium.com/bbm406f19/week-7-will-fall-or-not-6fb4bf6763ba
+
+- Also, at the end of the project, we created a short video to introduce our work : 
+
+[![](https://img.youtube.com/vi/wdv2eCLBONM/0.jpg)](https://www.youtube.com/watch?v=wdv2eCLBONM)
+
 ## ⛏️ Built Using <a name = "built_using"></a>
 - Pandas & Numpy
 - Matplotlib & Seaborn
@@ -56,6 +63,7 @@ which includes the informations of structures which effected by earthquake. With
 - [imbalanced-learn](https://imbalanced-learn.readthedocs.io/)
 - [PyTorch](https://pytorch.org/)
 - [CUDA](https://developer.nvidia.com/cuda-zone)
+- [Powtoon](https://www.powtoon.com/home/?) - For video
 
 ## ✍️ Authors <a name = "authors"></a>
 + [Öner İnce](https://github.com/OnerInce)
